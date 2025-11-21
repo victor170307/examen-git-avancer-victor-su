@@ -1,1 +1,1 @@
-les couleurs seront ici
+les couleurs ont disparus.
