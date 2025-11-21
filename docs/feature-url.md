@@ -1,0 +1,1 @@
+https://translate.google.fr/?hl=fr&tab=TT
