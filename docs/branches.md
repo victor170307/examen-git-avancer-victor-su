@@ -6,3 +6,5 @@ le dev sert d'integrer des nouveaux dossiers
 applique des nouveau fonctionnalités
 4- hotfix
 pour les corrections
+
+5 les explications : j ai merge dev a partir de la branches main 
